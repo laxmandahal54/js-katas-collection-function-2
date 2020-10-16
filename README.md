@@ -1,0 +1,1 @@
+# js-katas-collection-function-2
